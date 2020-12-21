@@ -1,6 +1,6 @@
 # arch_lempa_setup
 Quick configuration of nginx front-end and apache back-end on archlinux
-
+  
   git clone https://github.com/hhanccheng/arch_lempa_setup.git
   cd arch_lempa_setup/
   . arch_lempa_setup.sh
